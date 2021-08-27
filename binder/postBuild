@@ -1,6 +1,7 @@
+jupyter trust *.ipynb
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 jupyter nbextension enable hide_input/main
 jupyter trust *.ipynb
-
+jupyter trust MLAS_09_RNN.ipynb
