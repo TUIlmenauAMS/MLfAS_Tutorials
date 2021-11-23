@@ -51,7 +51,7 @@
 #### - PyTorch Audio Convolutional Autoencoder
 #### - Effects of Signal Shifts
   
-## 07 Denoising Autoencoder:<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MLfAS/blob/master/MLAS_06_Convolutional_Autoencoder.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MLfAS/master?filepath=MLAS_06_Convolutional_Autoencoder.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MLfAS/blob/master/MLAS_06_Convolutional_Autoencoder.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/RRo8sLTCc2M)
+## 07 Denoising Autoencoder:<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MLfAS/blob/master/MLAS_07_Denoising_Autoencoder.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MLfAS/master?filepath=MLAS_07_Denoising_Autoencoder.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MLfAS/blob/master/MLAS_07_Denoising_Autoencoder.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/RRo8sLTCc2M)
 
 #### - Introduction
 #### - Experiment 1 with stride=512
