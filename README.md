@@ -8,6 +8,9 @@
 [Technische Universität Ilmenau](https://www.tu-ilmenau.de/)
 
 # Content
+## Course Chatbot
+- We have a course chatbot, the [Deep Learning for Audio Tutor](https://chatgpt.com/g/g-6836fafbee9c8191ae748682f63b7b20-deep-learning-for-audio-tutor)
+  
 ## 01 Neural Networks Basics - Detector:<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MLfAS/blob/master/MLAS_01_NeuralNets_Detection.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MLfAS/master?filepath=MLAS_01_NeuralNets_Detection.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MLfAS_Tutorials/blob/main/MLAS_01_NeuralNets_Detection.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/9ueXaEbRFLY)
 #### - Introduction
 #### - Neural Networks as Detectors
