@@ -1,0 +1,17 @@
+name: MLfAS_CUDA
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+  - pip
+  - pip:
+    - --index-url https://download.pytorch.org/whl/cu130
+    - torch
+    - torchvision
+    - matplotlib
+    - opencv-python
+    - librosa
+    - scipy
+    - numpy
+    - ipython
