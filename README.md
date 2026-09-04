@@ -93,4 +93,4 @@ Please check the following files at the 'binder' folder:
 
  [speechtranslator_grok.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/MLfAS_Tutorials/blob/main/speechtranslator_grok.html)
 
- but it looks better when the html file is downloaded and then opened with the browser.
+ but it looks better when the html file is downloaded and then opened with the browser. It uses webkitSpeechRecognition.
