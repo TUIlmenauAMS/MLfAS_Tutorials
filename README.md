@@ -89,6 +89,8 @@ Please check the following files at the 'binder' folder:
  # Note
  Examples requiring a microphone will not work on remote environments such as Binder and Google Colab. 
 
+# Online Speech Translation
+
 The html file [speechtranslator_grok.html](https://github.com/TUIlmenauAMS/MLfAS_Tutorials/blob/main/speechtranslator_grok.html) is a browser app, which records voices from the microphone, recognizes them, and translates their language, for instance from German to English, continuously, and prints it out as text on the screen, and which then can be optionally saved to a file. You can open it using github.io with this link:
 
  [speechtranslator_grok.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/MLfAS_Tutorials/blob/main/speechtranslator_grok.html)
